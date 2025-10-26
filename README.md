@@ -2,7 +2,7 @@
 
 ### Un desarrollador apasionado
 
-<p align="left"> <img src="https://github.com/Angel-enc/Angel-enc/main/Banner GitHub.png" /> </p>
+<p align="left"> <img src="https://github.com/Angel-enc/Angel-enc/blob/main/Banner%20GitHub.png" /> </p>
 
 - 🌱 **Actualmente estoy aprendiendo Angular**
 
